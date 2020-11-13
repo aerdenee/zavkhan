@@ -1,0 +1,128 @@
+.dg-icon-blank{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/blank.gif') no-repeat center center;
+}
+.dg-icon-add{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/add.svg') no-repeat center center;
+}
+.dg-icon-edit{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/pencil.svg') no-repeat center center;
+}
+.dg-icon-clear{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/clear.png') no-repeat center center;
+}
+.dg-icon-remove{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/remove.svg') no-repeat center center;
+}
+.dg-icon-save{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/filesave.png') no-repeat center center;
+}
+.dg-icon-cut{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/cut.png') no-repeat center center;
+}
+.dg-icon-ok{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/ok.png') no-repeat center center;
+}
+.dg-icon-no{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/no.png') no-repeat center center;
+}
+.dg-icon-cancel{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/cancel.png') no-repeat center center;
+}
+.dg-icon-reload{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/reload.png') no-repeat center center;
+}
+.dg-icon-search{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/search.svg') no-repeat center center;
+}
+.dg-icon-print{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/print.png') no-repeat center center;
+}
+.dg-icon-print-1{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/print.svg') no-repeat center center;
+}
+.dg-icon-help{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/help.png') no-repeat center center;
+}
+.dg-icon-undo{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/undo.png') no-repeat center center;
+}
+.dg-icon-redo{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/redo.png') no-repeat center center;
+}
+.dg-icon-back{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/back.png') no-repeat center center;
+}
+.dg-icon-sum{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/sum.png') no-repeat center center;
+}
+.dg-icon-tip{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/tip.png') no-repeat center center;
+}
+.dg-icon-filter{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/filter.png') no-repeat center center;
+}
+.dg-icon-man{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/man.png') no-repeat center center;
+}
+.dg-icon-lock{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/lock.png') no-repeat center center;
+}
+.dg-icon-lock-1{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/lock.svg') no-repeat center center;
+}
+.dg-icon-more{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/more.png') no-repeat center center;
+}
+.dg-icon-export{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/export.svg') no-repeat center center;
+}
+
+.dg-icon-mini-add{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/mini_add.png') no-repeat center center;
+}
+.dg-icon-mini-edit{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/mini_edit.png') no-repeat center center;
+}
+.dg-icon-mini-refresh{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/mini_refresh.png') no-repeat center center;
+}
+
+.dg-icon-large-picture{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/large_picture.png') no-repeat center center;
+}
+.dg-icon-large-clipart{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/large_clipart.png') no-repeat center center;
+}
+.dg-icon-large-shapes{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/large_shapes.png') no-repeat center center;
+}
+.dg-icon-large-smartart{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/large_smartart.png') no-repeat center center;
+}
+.dg-icon-large-chart{
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/large_chart.png') no-repeat center center;
+}
+.dg-icon-zoom-out {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/zoom-out.svg') no-repeat center center;
+}
+.dg-icon-send-document {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/send-document.svg') no-repeat center center;
+}
+.dg-icon-send-message {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/send-message.svg') no-repeat center center;
+}
+.dg-icon-file-view {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/file-view.svg') no-repeat center center;
+}
+.dg-icon-dna {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/dna.svg') no-repeat center center;
+}
+.dg-icon-chemical {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/chemical.svg') no-repeat center center;
+}
+.dg-icon-baktery {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/baktery.svg') no-repeat center center;
+}
+.dg-icon-histology {
+	background:url('/assets/system/plugins/jquery-easyui-1.8.1/themes/icons/histology.svg') no-repeat center center;
+}

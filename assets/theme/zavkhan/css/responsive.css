@@ -1,0 +1,340 @@
+.mobileHeader{
+    padding: 10px 0;
+    z-index: 99;
+}
+.mobileHeader .container{
+    padding: 0 8px;
+}
+.mobileHeader #mainLogo{
+    float: left;
+    padding: 0;
+}
+.logoMobile{    
+    height: 30px;
+    width: 150px;
+    background-size: 60%;
+    background-position-x: left;
+}
+.enter_menus {
+    display: block;
+    float: right;
+    width: 20px;
+    height: 20px;
+    color: #fff;
+    font-size: 25px;
+    margin: 3px 10px 0 0;
+    outline: none;
+    background-color: transparent;
+}
+.mm-navbar .social{
+    margin-top: 2px;
+}
+.mm-panels > .mm-panel > .mm-listview:first-child, .mm-panels > .mm-panel > .mm-navbar + .mm-listview{
+    margin-top: -13px;
+}
+
+.mm-panel #searchForm{
+    position: relative;
+    padding-top: 10px;
+    margin-left: 10px;
+    width: 95%;
+    border-top: 1px solid #fff;
+}
+.mm-panel input{
+    color: #333;
+    width: 90%;
+    padding: 2px 29px 2px 5px;
+    border: 1px solid #979797;
+}
+.mm-panel .btnSearch,
+.mm-panel .clearsearch{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    border: none;
+    color: #fff;
+    padding: 3px 5px;
+    background-color: #515b60;
+}
+.mm-panel .clearsearch{
+    right: 24px;
+}
+.mm-hidden #searchForm{
+    display: none;
+}
+
+.mm-menu .mobileRow {
+    position: relative;
+    padding: 15px 15px 15px 10px;
+}
+.mm-menu .mobileRow .widget_box_ticker, 
+.mm-menu .mobileRow .widget_box_ticker ul li, 
+.mm-menu .mobileRow #weatherLink, 
+.mm-menu .mobileRow #currencyLink {
+    height: 20px !important;
+    text-align: left;
+    font-size: 15px;
+}
+.mm-menu .mobileRow #weatherLink, 
+.mm-menu .mobileRow #currencyLink {
+    display: block;
+    width: 100%;
+}
+.mm-menu .mobileRow .widget_box_ticker, 
+.mm-menu .mobileRow .widget_box_ticker ul li {
+    width: 100% !important;
+}
+.mm-menu #weatherRow #weather_box{
+    margin-left: 0 !important;    
+}
+.mm-menu #currencyRow .titleLine,
+.mm-menu #weatherLink .titleLine{
+    border-top: none
+}
+.mm-menu #weatherLink .title,
+.mm-menu #currencyLink .title{
+    margin-right: 10px;
+}
+.mm-menu #weatherLink .title, #weatherLink .content,
+.mm-menu #currencyLink .title, #currencyLink .content{
+    float: left;
+}
+
+.moblist{
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.moblist .container{
+    padding-left: 0;
+}
+.moblist .col-xs-9{
+    width: 100%;
+}
+
+.moblist .news-list-post .text-muted{
+    margin: 5px 0
+}
+.moblist .news-list-groups .news-list-post .imghover{
+    height: 135px;
+}
+.moblist .news-list-groups .news-list-post .col-xs-8{
+    padding-left: 5px;
+}
+
+.moblist .banner{
+    margin-top: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.moblist #bannerA1{
+    margin-top: 5px;
+}
+.moblist #bannerA2{
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+.moblist #bannerB1{
+    margin-bottom: 0px;
+}
+.moblist #bannerB3{
+    padding-left: 0;
+}
+
+.moblist .pagination{
+    margin: 0;   
+}
+
+.footerMobile .conctactColumn{
+    padding: 0 0 15px;
+}
+.footerMobile .conctactColumn .col-md-4{
+    width: 50%;
+    float: left;
+}
+.footerMobile #footerSocial .social{
+    margin: 25px auto;
+    text-align: center;
+}
+.footerMobile .subfooter .col-md-5{
+    text-align: left;
+}
+
+.footerMobile #footerLogo,
+.footerMobile #footerSocial{
+    float: left;
+}
+.footerMobile #footerLogo{
+    width: 45%;
+    text-align: left;
+}
+.footerMobile #mainLogo{
+    text-align: left;
+}
+.footerMobile #footerSocial{
+    width: 55%;
+}
+
+.moblist .mainTitle{
+    font-size: 25px;
+}
+
+.moblist .topNewsArea .topNews{
+    padding-bottom: 0;
+}
+.moblist .topNewsFirst .image{
+    height: 230px !important;
+}
+.moblist .topNewsFirstDesc{
+    margin-bottom: 5px;
+}
+.moblist .topRight{
+    margin-right: 0;
+}
+.moblist .topLeft{
+    margin-left: 0;
+}
+
+.moblist .topNewsArea .topNews h5{
+    height: 70px;
+    font-size: 18px;
+}
+
+.moblist .sidetabs{
+    padding: 5px;
+}
+
+.moblist .news-video-cont{
+    margin: 5px
+}
+
+.moblist .choicenews{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+.moblist .choicenews .container{
+    padding-right: 0;
+}
+.moblist .choicenews .mainTitle{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+.moblist .choicenews .col-xs-12{
+    padding: 0;
+}
+.moblist .choicenews .col-xs-3{
+    width: 99.7%;
+}
+.moblist .choicenews .choicenews-data{
+    border-right: none;
+    margin: 0 0 8px;
+}
+.moblist .choicenews .choicenews-data .image{
+    height: 250px;
+}
+.moblist .choicenews .choicenews-data:last-child{
+    margin-bottom: 5px;
+}
+
+.moblist .menunews{
+    margin-bottom: 0;
+}
+.moblist .menunews h2{
+    font-size: 25px;
+}
+.moblist .menunews .menunews-news{
+    margin: 0 5px;
+    padding: 0;
+    width: 96.5%;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #cedfef;
+}
+.moblist .menunews .menunews-news:last-child{
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.moblist .menunews .menunews-news h4{
+    margin-top: 0;
+    margin-bottom: 4px;
+    height: auto;
+}
+
+.moblist .news-more{
+    padding-right: 0;
+}
+
+.moblist .comments .form-horizontal .col-xs-11{
+    padding-top: 0;
+    float: right;
+    width: 81%;
+}
+.moblist .replies{
+    margin-left: 15px !important;
+}
+
+.moblist .sidetabs .item-post a .imghover{
+    width: 130px;
+}
+.mm-listitem:last-child{
+    border-bottom: none;
+}
+
+.moblist .weekdateFirstChild{
+    text-align: left;
+}
+.moblist .weathertownsel{
+    top: 5px;
+    right: 5px;
+}
+.moblist_weather{
+    padding: 0
+}
+.moblist_weather .leftColumn{
+    padding-right: 0;
+}
+.moblist .weatherbydate{
+    padding: 0 
+}
+
+.weatherRight{
+    padding: 5px 0 0
+}
+.weatherRight #bannerB1{
+    padding-right: 0;
+}
+.weatherRight .sidetabs{
+    padding-right: 0;
+}
+
+.moblist .currency_container .leftColumn{
+    padding-right: 0;
+}
+
+.moblist .tab-content{
+    overflow: auto;
+}
+
+.moblist .currency_container #bannerA1, 
+.moblist .currency_container #bannerA2,
+.moblist .currency_container #bannerB1{
+    padding: 0;
+}
+.moblist .currency_container #bannerB1{
+    padding: 0 0 0 5px;
+}
+.moblist .currency_container .col-xs-6{
+    width: 100%;
+}
+.moblist .currency_select_compare{
+    overflow: auto;
+}
+
+.currencyRight{
+    padding: 0;
+}
+.currencyRight .sidetabs{
+    padding-right: 0;
+}

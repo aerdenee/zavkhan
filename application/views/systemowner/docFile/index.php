@@ -1,0 +1,1 @@
+<div id="window-doc-file" data-doc-id="<?php echo $content->doc_id; ?>"><table id="dgDocFile"></table></div>
